@@ -55,10 +55,4 @@
   <img src="https://img.shields.io/badge/ETL-4B8BBE?style=flat-square"/>
 </p>
 
----
 
-<h3>GitHub Stats</h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolas-salas&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
